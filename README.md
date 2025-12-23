@@ -2,7 +2,7 @@
 
 ### Estudiante de Ciencia de Datos @ UBA 🇦🇷
 
-Estudiante de la Licenciatura en Ciencia de Datos (UBA) con orientación en Inteligencia Artificial. Mi meta actual es sumar experiencia laboral como programador mientras avanzo hacia mi graduación (est. 2029). Me defino como un autodidacta constante, complementando mi carrera con herramientas clave de la industria (Git, Docker, etc.).
+Estudiante de la Licenciatura en Ciencias de Datos (UBA) con orientación en Inteligencia Artificial. Mi meta actual es sumar experiencia laboral como programador mientras avanzo hacia mi graduación (est. 2029). Me defino como un autodidacta constante, complementando mi carrera con herramientas clave de la industria (Git, Docker, etc.).
 
 ---
 
